@@ -9,29 +9,6 @@ p {
   color: white;
 }
 
-.navbar {
-  overflow: hidden;
-  background-color: #2C0552;
-  position: fixed;
-  top: 0;
-  width: 1174px;
-}
-
-.navbar a {
-  float: left;
-  display: block;
-  color: #28D462;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
-}
-
-.navbar a:hover {
-  background: #074B06;
-  color: black;
-}
-
 .f1screen {
   color: #white;
   position: absolute;
@@ -98,7 +75,6 @@ p {
   font-weight: normal;
   font-size: 18px;
   line-height: 91.69%;
-  /* or 17px */
   display: flex;
   align-items: center;
   letter-spacing: -0.05em;
@@ -194,7 +170,7 @@ p {
   height: 93px;
   left: 87px;
   top: 5800px;
-  font-family: Fira Code;
+  font-family: 'Fira Code'monospace;
   font-style: normal;
   font-weight: bold;
   font-size: 18px;
@@ -207,7 +183,7 @@ p {
   height: 31px;
   left: 481px;
   top: 5800px;
-  font-family: Fira Code;
+  font-family: 'Fira Code'monospace;
   font-style: normal;
   font-weight: bold;
   font-size: 18px;
@@ -220,7 +196,7 @@ p {
   height: 31px;
   left: 837px;
   top: 5800px;
-  font-family: Fira Code;
+  font-family: 'Fira Code'monospace;
   font-style: normal;
   font-weight: bold;
   font-size: 18px;
@@ -233,7 +209,7 @@ p {
   height: 93px;
   left: 67px;
   top: 6000px;
-  font-family: Fira Code;
+  font-family: 'Fira Code'monospace;
   font-style: normal;
   font-weight: bold;
   font-size: 24px;
@@ -246,4 +222,12 @@ p {
   height: 217px;
   left: 817px;
   top: 5960px;
+  text-decoration: none;
+}
+a{
+  text-decoration: none;
+  color: white;
+}
+a:hover{
+  color:  #23B955
 }
