@@ -1,0 +1,249 @@
+body {
+  background-color: black;
+  width: 1174px;
+  margin: auto;
+  font-family: 'Fira Code', monospace;
+}
+
+p {
+  color: white;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #2C0552;
+  position: fixed;
+  top: 0;
+  width: 1174px;
+}
+
+.navbar a {
+  float: left;
+  display: block;
+  color: #28D462;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navbar a:hover {
+  background: #074B06;
+  color: black;
+}
+
+.f1screen {
+  color: #white;
+  position: absolute;
+  width: 700px;
+  height: 96px;
+  left: 70px;
+  top: 260px;
+  margin-top: 20px;
+  font-family: 'Fira Code', monospace;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+}
+
+.fl1 {
+  position: absolute;
+  width: 370px;
+  height: 238px;
+  left: 427px;
+  top: 302px;
+}
+
+.f1 {
+  position: absolute;
+}
+
+.lw1 {
+  position: absolute;
+  width: 370px;
+  height: 238px;
+  left: 368px;
+  top: 110px;
+}
+
+.lw2 {
+  position: absolute;
+  width: 308px;
+  height: 224px;
+  left: 159px;
+  top: 149px;
+}
+
+.lg3 {
+  position: absolute;
+  width: 189px;
+  height: 226px;
+  left: 553px;
+  top: 180px;
+}
+
+.ligature {
+  width: 1082px;
+  top: 497;
+}
+
+.bw {
+  position: absolute;
+  width: 540px;
+  height: 84px;
+  left: 440px;
+  top: 570px;
+  font-family: 'Fira Code', monospace;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 91.69%;
+  /* or 17px */
+  display: flex;
+  align-items: center;
+  letter-spacing: -0.05em;
+}
+
+.ligpic {
+  position: absolute;
+  width: 1050px;
+  height: 878px;
+  left: 5px;
+  top: 1000px;
+}
+
+.bw2 {
+  position: absolute;
+  width: 700px;
+  height: 96px;
+  left: 70px;
+  top: 260px;
+  margin: auto;
+}
+
+.glyphs {
+  position: absolute;
+  width: 1129px;
+  height: 658px;
+  left: -45px;
+  top: 2600px;
+}
+
+.pup {
+  font-family: 'Fira Code', monospace;
+  font-size: 53px;
+  font-style: bold;
+  position: absolute;
+  width: 778px;
+  height: 71px;
+  left: 198px;
+  top: 3700px;
+}
+
+.os {
+  position: absolute;
+  width: 835px;
+  height: 286px;
+  left: 74px;
+  top: 3850px;
+}
+
+.oss {
+  position: absolute;
+  width: 835px;
+  height: 336px;
+  left: 540px;
+  top: 4140px;
+}
+
+.authors {
+  position: absolute;
+  width: 1031px;
+  height: 77px;
+  left: 66px;
+  top: 5340px;
+}
+
+.gifsa {
+  position: absolute;
+  width: 257.58px;
+  height: 281px;
+  left: 86px;
+  top: 5500px;
+}
+
+.gifsat {
+  position: absolute;
+  width: 257.58px;
+  height: 281px;
+  left: 450px;
+  top: 5500px;
+}
+
+.gifsatt {
+  position: absolute;
+  width: 281px;
+  height: 281px;
+  left: 783px;
+  top: 5500px;
+}
+
+.a1 {
+  position: absolute;
+  width: 331px;
+  height: 93px;
+  left: 87px;
+  top: 5800px;
+  font-family: Fira Code;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 31px;
+}
+
+.a2 {
+  position: absolute;
+  width: 216px;
+  height: 31px;
+  left: 481px;
+  top: 5800px;
+  font-family: Fira Code;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 31px;
+}
+
+.a3 {
+  position: absolute;
+  width: 216px;
+  height: 31px;
+  left: 837px;
+  top: 5800px;
+  font-family: Fira Code;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 31px;
+}
+
+.pf {
+  position: absolute;
+  width: 188px;
+  height: 93px;
+  left: 67px;
+  top: 6000px;
+  font-family: Fira Code;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 31px;
+}
+
+.logo {
+  position: absolute;
+  width: 257px;
+  height: 217px;
+  left: 817px;
+  top: 5960px;
+}
